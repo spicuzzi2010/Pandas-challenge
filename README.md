@@ -88,7 +88,7 @@ The first page conains an overall District analysis that lists all of the school
 
 You can then drill down on each of the schools individually which will take you to the school analysis dashboard. This dashboard contains the school size, budget per student, average reading and math score for the scool, highest and lowest math and reading scores, average math and reading scores by gender and by grade and a bar chart showing each students math and reading score.
 
-![Individual School Dashboard](./Resources/PyCitySchools_PowerBI_Dashboard_School.png)
+![Individual School Dashboard](./Resources/PyCitySchools_PowerBI_Dashboard_school.png)
 
 
 
