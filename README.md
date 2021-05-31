@@ -84,11 +84,11 @@ The report in the notebook will display the below  data
 
 The first page conains an overall District analysis that lists all of the schools in the district, the average math and reading scores by school (with two cards that will highlight green if the average is greater than or equal to 80% and red if the score is less than 80%),Pie graph showing each school and the percentage of total district budget, a card showing total district budget and each school budget once selected, and a bar with line graph showing budget per school size.
 
-[Overall Districs Analysis Dashboard](./Resources/PyCitySchools_PowerBI_Dashboard_District.png)
+![Overall District Analysis Dashboard](./Resources/PyCitySchools_PowerBI_Dashboard_District.png)
 
 You can then drill down on each of the schools individually which will take you to the school analysis dashboard. This dashboard contains the school size, budget per student, average reading and math score for the scool, highest and lowest math and reading scores, average math and reading scores by gender and by grade and a bar chart showing each students math and reading score.
 
-[Overall Districs Analysis Dashboard](./Resources/PyCitySchools_PowerBI_Dashboard_School.png)
+![Individual School Dashboard](./Resources/PyCitySchools_PowerBI_Dashboard_School.png)
 
 
 
