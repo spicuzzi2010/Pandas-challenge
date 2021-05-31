@@ -1,5 +1,4 @@
 # pandas-challenge
 
-Having spent years analyzing financial records for big banks, you've finally scratched your idealistic itch and joined the education sector. In your latest role, you've become the Chief Data Scientist for your city's school district. In this capacity, you'll be helping the  school board and mayor make strategic decisions regarding future school budgets and priorities.
 
-As a first task, you've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your responsibility is to aggregate the data to and showcase obvious trends in school performance.
+The [PyCitySchools](./PyCitySchools_starter.ipynb) contains analysis of the district-wide standardized test results and budget information. the [school and student csv's](./Resources) contain every student's math and reading scores, as well as various information on the schools they attend. The notebook previously mentioned contains the aggregation of the data using python to showcase obvious trends in school performance.
